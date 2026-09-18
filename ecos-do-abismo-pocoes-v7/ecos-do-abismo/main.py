@@ -1,5 +1,5 @@
-"""Launcher da demo vertical: um chefe, duas fases, feedback de impacto."""
-from mvp_game import Game
+"""Launcher da demo dirigida do Rei do Abismo."""
+from director_game import DirectorGame
 
 if __name__ == "__main__":
-    Game().run()
+    DirectorGame().run()
