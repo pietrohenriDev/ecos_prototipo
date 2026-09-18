@@ -1,5 +1,5 @@
-"""Launcher da demo cinematográfica do Rei do Abismo."""
-from director_game import DirectorGame
+"""Launcher da versão cinematográfica do Rei do Abismo."""
+from cinematic_game import CinematicGame
 
 if __name__ == "__main__":
-    DirectorGame().run()
+    CinematicGame().run()
